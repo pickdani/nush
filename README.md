@@ -23,8 +23,9 @@ nush$ exit
 ```
 
 ## Usage
+
 - Accepts an optional script file as the first command line arugment.
-- Otherwise a prompt is show and command input is accepted and executed.
+- Otherwise a prompt is show and command input is accepted, parsed, and executed.
 
 ### Supported Operators
 Redirect input
