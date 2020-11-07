@@ -1,0 +1,2 @@
+# nush
+Northeastern University Shell
