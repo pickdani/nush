@@ -1,10 +1,10 @@
-# nush
+<h1> nush </h1>
 
 ### Northeastern University Shell
 
 <hr>
 
-#### Unix bash like shell written in C.
+<h3> Unix bash like shell written in C. </h3>
 
 ```
 daniel@daniel:~/cs3650/ch01$ ./nush
