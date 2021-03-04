@@ -1,5 +1,3 @@
-### Northeastern University Shell
-
 ```
 daniel@daniel:~/cs3650/ch01$ ./nush
 nush$ ls
